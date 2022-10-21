@@ -9,7 +9,7 @@ export class ListHomeComponent implements OnInit {
 
   numbers = [
     { value: 50, label: 'Müşteri' },
-    { value: 3500, label: 'ciro' },
+    { value: '3500₺', label: 'ciro' },
     { value: 65, label: 'Yorumlar' },
   ]
 
